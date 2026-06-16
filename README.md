@@ -1,16 +1,16 @@
 # IN-SECURITY — Secure Inventory System v1.0
 
-Sistema de gerenciamento de inventário com segurança por criptografia e autenticação.
+O projeto IN-SECURITY — Secure Inventory System v1.0 é um sistema de gerenciamento de inventário desenvolvido na linguagem Python, com o objetivo de aplicar conceitos de programação modular, estrutura de dados, manipulação de arquivos, algoritmos de busca e ordenação, além de mecanismos básicos de segurança da informação.
 
 ---
 
 ## 👥 Integrantes
 - Deysi Ticona - deysi.ticona@aluno.cps.sp.gov.br
 - Laura Alves Silva - deysi.ticona@aluno.cps.sp.gov.br
-Lucas Negrelli - lucas.chareta@cps.aluno.sp.gov.br
-Luiz Henrique - luiz.dias5@aluno.cps.sp.gob.br
-Obed Sarmiento - obed.sarmiento@aluno.cps.sp.gov.br
-Renato Miranda - renato.assis@cps.aluno.sp.gov.br
+- Lucas Negrelli - lucas.chareta@cps.aluno.sp.gov.br
+- Luiz Henrique - luiz.dias5@aluno.cps.sp.gob.br
+- Obed Sarmiento - obed.sarmiento@aluno.cps.sp.gov.br
+- Renato Miranda - renato.assis@cps.aluno.sp.gov.br
 
 ---
 
