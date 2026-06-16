@@ -4,7 +4,7 @@ Sistema de gerenciamento de inventário com segurança por criptografia e autent
 
 ---
 
-# Integrantes
+## 👥 Integrantes
 Deysi Ticona - deysi.ticona@aluno.cps.sp.gov.br
 Laura Alves Silva - deysi.ticona@aluno.cps.sp.gov.br
 Lucas Negrelli - lucas.chareta@cps.aluno.sp.gov.br
